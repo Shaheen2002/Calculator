@@ -1,10 +1,10 @@
 # Calculator
  
- num1 = float(input("Enter first number: "))
- operation = input("Enter operation: ")
- num2 = float(input("Enter second number: "))
+num1 = float(input("Enter first number: "))
+operation = input("Enter operation: ")
+num2 = float(input("Enter second number: "))
  
- if operation == "+" :
+if operation == "+" :
     print(num1 + num2)
 elif operation == "-" :
     print(num1 - num2)
